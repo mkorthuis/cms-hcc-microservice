@@ -5,7 +5,7 @@ clickclick==1.2.2
 connexion==1.4.2
 et-xmlfile==1.0.1
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-Injector==0.10.1
 idna==2.6
 inflection==0.3.1
